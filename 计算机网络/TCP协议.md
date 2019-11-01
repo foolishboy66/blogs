@@ -56,6 +56,7 @@ client ->> server: FIN=1,seq=u
 Note left of client: FIN_WAIT_1
 server->>client: ACK=1,ack=u+1,seq=v
 Note right of server: CLOSE_WAIT
+Note left of client: FIN_WAIT_2
 server->>client: FIN=1,ACK=1,ack=u+1,seq=w
 Note right of server: LAST_ACK
 client->>server: ACK=1,ack=w+1,seq=u+1
