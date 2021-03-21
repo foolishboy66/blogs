@@ -2,7 +2,7 @@
 
 ## spring-boot-starter-disconf简介
 
-​	disconf是一个分布式配置管理平台，通过和springboot2.1的整合形成一个starter，无需xml繁琐的配置，即可快速使用disconf，相关代码已上传到github。
+disconf是一个分布式配置管理平台，通过和springboot2.1的整合成一个starter，无需xml繁琐的配置，即可快速使用disconf，相关代码已上传到github。
 
 ## 一、starter项目地址
 
@@ -22,7 +22,7 @@
 
 ### 2、本人安装的相关组件如下
 
-​	系统为macos
+系统为macos
 
 - [x] jdk1.8
 

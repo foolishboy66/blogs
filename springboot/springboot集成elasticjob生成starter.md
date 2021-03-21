@@ -2,7 +2,7 @@
 
 ## spring-boot-starter-elasticjob简介
 
-​	elasticjob是当当开元的一个分布式任务调度平台，通过和springboot2.2的整合形成一个starter，无需xml繁琐的配置，即可快速启用elasticjob，相关代码已上传到github。
+elasticjob是当当开源的一个分布式任务调度平台，通过和springboot2.2的整合成一个starter，无需xml繁琐的配置，即可快速启用elasticjob，相关代码已上传到github。
 
 ## 一、starter项目地址
 
@@ -12,7 +12,7 @@
 
 ## 二、使用步骤
 
-### 1、引入maven依赖，如有需要，可以自行打包上传自私服
+### 1、引入maven依赖，如有需要，可以自行打包上传至私服
 
 ```java
 <dependency>
